@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -67,6 +70,7 @@
   </component>
   <component name="ProjectId" id="1Y0YIqKrF50z6zZieBW3xZY5oJJ" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -330,7 +334,7 @@
       <workItem from="1582080041761" duration="468000" />
       <workItem from="1582080903821" duration="3624000" />
       <workItem from="1582091951213" duration="33000" />
-      <workItem from="1582092037956" duration="338000" />
+      <workItem from="1582092037956" duration="1437000" />
     </task>
     <servers />
   </component>
